@@ -44,7 +44,7 @@ body {
   padding: 1.5rem 1rem 3rem;
 }
 .hidden {
-  display: none !important;
+  display: none;
 }
 .full-width {
   width: 100%;

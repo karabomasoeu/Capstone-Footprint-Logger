@@ -21,6 +21,6 @@ module.exports = async function protect(req, res, next) {
     req.user = user;
     next();
   } catch (err) {
-    return res.status(401).json({ message: 'Invalid or expired token. Please log in again.' });
+    return res.status(401).json({ message: 'Invalid or expired token. Please try again.' });
   }
 };

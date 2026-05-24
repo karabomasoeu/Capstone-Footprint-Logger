@@ -72,7 +72,7 @@ footprint-logger/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karabomasoeu/capstone-footprint-logger-platform.git
+   git clone https://github.com/karabomasoeu/capstone-footprint-logger.git
    cd footprint-logger
    ```
 

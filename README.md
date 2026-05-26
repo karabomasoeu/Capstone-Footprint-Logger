@@ -85,7 +85,6 @@ footprint-logger/
 3. Set up environment variables:
    ```bash
    cp ../.env.example .env
-   # Edit .env with your MongoDB URI and JWT secret
    ```
 
 4. Start the server:

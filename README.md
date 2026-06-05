@@ -19,7 +19,7 @@ A web platform that lets users track daily activities contributing to carbon emi
 
 | Layer     | Technology                        |
 |-----------|-----------------------------------|
-| Frontend  | HTML5, CSS3, Vanilla JavaScript   |
+| Frontend  | HTML5, CSS3, JavaScript   |
 | Backend   | Node.js, Express 4                |
 | Database  | MongoDB with Mongoose             |
 | Auth      | JWT (JSON Web Tokens) + bcrypt    |

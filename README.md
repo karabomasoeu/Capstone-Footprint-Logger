@@ -1,6 +1,6 @@
 # Footprint Logger
 
-A web platform that lets users track daily activities contributing to carbon emissions, view summaries, and get personalised tips to reduce their footprint.
+A web platform that assists users to track their daily activities contributing to carbon emissions, view summaries, and get personalised tips to reduce their footprint.
 
 ---
 

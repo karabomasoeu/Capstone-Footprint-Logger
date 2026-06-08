@@ -124,11 +124,5 @@ footprint-logger/
 
 ---
 
-## Emission Factors
-
-Emission factors are sourced from:
-
-- **Food**: Our World in Data (Poore & Nemecek, 2018)
-- **Transport**: IPCC 
 
 

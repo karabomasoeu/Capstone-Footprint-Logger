@@ -129,8 +129,6 @@ footprint-logger/
 Emission factors are sourced from:
 
 - **Food**: Our World in Data (Poore & Nemecek, 2018)
-- **Transport**: IPCC AR6 (2021)
-- **Energy**: Eskom CDP Report (2023) - SA grid at 0.82 kg CO₂/kWh
-- **Other**: US EPA WARM Model (2023)
+- **Transport**: IPCC 
 
 
